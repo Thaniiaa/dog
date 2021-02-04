@@ -8,7 +8,7 @@ Setalah mengikuti perintah di atas waktu-nya kita clonning tool-nya :
 
 $ git clone https://github.com/Thaniiaa/dog
 
-Setelah proses cloning selesai kita move on dari perintah di atas dan ketikan perintah ini :
+Setelah proses cloning selesai kita move on dari perintah di atas dan ketikan perintah ini
 
 $ cd dog
 
